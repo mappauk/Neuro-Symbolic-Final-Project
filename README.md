@@ -1,1 +1,1 @@
-# Neuro-Symbolic-Final-Project
+# Neuro-Symbolic Final Project
